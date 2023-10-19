@@ -1,0 +1,9 @@
+<meta>
+    <info name="KomPanel" author="bwtu" version="1.0" description="KomPanel" />
+
+    <script src="ayarlar.lua" type="shared" cache="false" />
+    <script src="client.lua" type="client" cache="false" />
+    <script src="server.lua" type="server" cache="false" />
+    <file src="Font1.ttf"/>
+
+</meta>
